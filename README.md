@@ -41,7 +41,7 @@ The code for this project is hosted on GitHub. You can find it [here](https://gi
 
 ## Video Explanation
 
-For a detailed explanation of how the project works and its features, please watch this [video]() (up to 5 minutes)
+For a detailed explanation of how the project works and its features, please watch this [video](https://drive.google.com/file/d/1FXN5pcGhww8IHPtEcRpTMvxJV2gHfNMi/view) (up to 5 minutes)
 
 ## Usage
 
