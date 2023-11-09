@@ -80,7 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Hosting
 
-The application is hosted on GitHub, and you can access it [here](https://ananthuak16.github.io/Super-Hero-Hunter/).
+The application is hosted on GitHub, and you can access it [here](https://ananthuak16.github.io/Super-Hero-Hunter/index.html).
 
 ## Acknowledgments
 
